@@ -6,6 +6,6 @@ int main()
    
    //printing my name
    
-   printf("Jadamal Sangeetha ch");
+   printf("Jadamal Sangeetha");
    return 0;
 }
