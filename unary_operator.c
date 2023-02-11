@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-//postfix : in this assignement is done first then increment or decreament is done
-//in prefix first it increament or decreament then the assignment takes place
+//postfix : In Postfix assignement is done first then increment or decreament takes place
+//prefix: In prefix first it increaments or decreaments then it assigns the value
 int main()
 {
     int a = 10, b = 20, c;
