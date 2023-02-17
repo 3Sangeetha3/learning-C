@@ -13,5 +13,4 @@ int main()
         printf("\n%d",temp);
         temp = temp+commondifference;    
     }
-    
 }
