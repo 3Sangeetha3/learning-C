@@ -30,5 +30,6 @@ int main()
         i-=1;
         N=N*(N-1);
         printf("%d",N);
+    return 0;
 }
 
