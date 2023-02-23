@@ -12,4 +12,6 @@ int main()
     printf("\nValue of a: %d", ++a);
     printf("\nvalue of b: %d", ++b);
     printf("\nvalue of b: %d", b++); 
+    
+    return 0;
 }
