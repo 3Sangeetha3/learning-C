@@ -21,4 +21,5 @@ int main()
     printf("it is a plaindrome");
     else
     printf(" not a palindrome");
+    return 0;
 }
