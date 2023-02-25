@@ -10,5 +10,6 @@ int main()
     printf("number accepted");
     else
     printf("error");
+    retuen o;
 
 }
