@@ -13,10 +13,8 @@ int main()
       num = num/10;  
     }
     
-
     printf("Reverse number : %d", rev);
     
-
     if (originalnum == rev)
     printf("it is a plaindrome");
     else
