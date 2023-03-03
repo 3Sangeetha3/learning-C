@@ -14,4 +14,5 @@ int main()
         
     }
     printf("\noutside loop ");
+    return 0;
 }
