@@ -34,6 +34,5 @@ int main(){
     } 
      
     printf("\nSum is: %d", s); 
-     
     return 0; 
 } 
