@@ -21,4 +21,6 @@ int main()
 
     printf("\nright shift: %d",b>>1);
     printf("\nright shift: %d",a>>2);
+    
+    return 0;
 }
