@@ -10,5 +10,4 @@ int main()
     printf("num1 = %d", num1);
     printf("num2 = %d", num2);
     sum();
-
 }
