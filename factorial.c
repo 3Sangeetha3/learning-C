@@ -1,7 +1,7 @@
 // n(factorial)/(n-r)factorial
 #include <stdio.h>
 
-/*int main() {
+int main() {
     int N;
     long long fact = 1;
 
@@ -18,18 +18,4 @@
 
     printf("%lld\n", fact);
     return 0;
-}*/
-
-int main() 
-{
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
-    
-    int N=0,i;
-    scanf("%d",&N);
-    while (i>0)
-        i-=1;
-        N=N*(N-1);
-        printf("%d",N);
-    return 0;
 }
-
