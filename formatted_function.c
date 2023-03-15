@@ -13,4 +13,5 @@ int main()
     //unsigned integers is for positive integers if given a negative number it will take an garbage value
     unsigned int d = 100;
     printf("d=%u",d);
+    return 0;
 }
