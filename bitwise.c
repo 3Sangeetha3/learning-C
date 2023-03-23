@@ -23,4 +23,5 @@ int main()
     printf("\nright shift: %d",a>>2);
     
     return 0;
+    
 }
